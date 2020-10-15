@@ -1,0 +1,18 @@
+.cssDiv {
+  margin: 10px 50px;
+  padding: 20px;
+  float: right;
+  color: black;
+  background-color: #eee;
+  font-size: medium;
+  font-weight: 500;
+}
+.buttonDiv {
+  height: 200px;
+  background-color: #cccc;
+}
+.bodyDiv {
+  background-color: #fcfefc;
+  display: flex;
+  justify-content: space-around;
+}
